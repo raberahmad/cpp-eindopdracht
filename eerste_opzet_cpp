@@ -1,0 +1,50 @@
+classe vector 
+classe ray
+classe kleur
+
+
+dependecies:
+- opengl for weergave scherm
+
+
+clase van ene object:
+- sphere
+- kubus
+
+
+
+classe van een oppervlakte:
+- glass
+- spigelend
+- standaard
+
+classe raytracer
+
+classe renderer
+
+
+Eindcijfer:
+
+gebruikmaken van correcte headers   2
+incapsulation   1
+inheritandce    1
+functies met value en reference     1
+toepassen vector en list uit stl    1
+---------------------------------- total = 6
+pointers en address operator    1
+dynamisch geheugen beheer   1
+operator overloading    1
+toepassen van templates     1
+---------------------------------- total = 10
+
+
+
+
+
+
+
+
+
+
+
+

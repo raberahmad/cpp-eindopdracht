@@ -1,0 +1,41 @@
+﻿  Basic_Object.cpp
+  Pyramide.cpp
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\Pyramide.cpp(53,27): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+  Raytracer.cpp
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\Raytracer.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\Raytracer.cpp(67,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sphere.cpp
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\Sphere.cpp(42,34): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+  Vlak.cpp
+  main.cpp
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(21,28): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(52,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(53,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(60,128): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(60,91): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(60,54): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(75,23): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(82,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\MyRayTracer\main.cpp(82,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  MyRayTracer.vcxproj -> C:\Users\Raber\Desktop\cpp-eindopdracht\MyRayTracer\Debug\MyRayTracer.exe
